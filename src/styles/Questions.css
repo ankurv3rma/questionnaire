@@ -1,0 +1,31 @@
+.questionnaire{
+  margin-bottom: 50px;
+}
+
+h1{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.btn:hover, .btn:active, .btn:active:hover{
+  background-color: white;
+  border-color: #dadada;
+  box-shadow: 0 0 10px #9ecaed;
+}
+
+.questionContainer{
+  border: 1px solid #efefef;
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
+
+.question{
+  padding: 10px;
+  background-color: #383838;
+  color: white;
+}
+
+.incorrectAnswer{
+  border-color: #ffd6d8;
+  box-shadow: 0 0 10px #c9979a;
+}

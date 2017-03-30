@@ -1,0 +1,33 @@
+.resultContainer{
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  height: 500px;
+}
+
+.bar{
+  min-height: 0px;
+  position: absolute;
+  bottom: 5px;
+}
+
+#correctAnswers{
+  background-color: #90dd9f;
+  left: 10%;
+}
+
+#incorrectAnswers{
+  background-color: #e5757a;
+  right: 10%;
+  float: right;
+}
+
+.xLabel{
+  width: 80%;
+  position: absolute;
+  text-align: center;
+  bottom: -30px;
+}
+
+.yLabel{
+  width: 30px;
+}

@@ -1,0 +1,18 @@
+select[value=""] {
+  color: gray;
+}
+option[value=""][disabled] {
+  display: none;
+}
+option {
+  color: black;
+}
+
+select.form-control{
+  width: 40%
+}
+
+.answers{
+  padding: 15px;
+  background-color: lightgrey;
+}
