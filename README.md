@@ -1,3 +1,5 @@
+Try this app on: https://question-react-app.herokuapp.com/
+
 Questionnaire App built with React and Redux.
 To run:
 - Checkout the repo
